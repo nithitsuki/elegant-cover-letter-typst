@@ -17,7 +17,7 @@ Two ways to install or use the package:
 
 This is the simplest option and works well when editing a single document or using the Typst web app: just upload `elegant-cover-letter.typ` alongside your `main.typ`.
 
-### Local (global) installation — makes the package available as `@local/elegant-cover-letter:0.0.2`
+### Local (global) installation — makes the package available as `@local/elegant-cover-letter:0.0.1`
 
 Make sure to have [git installed](https://github.com/git-guides/install-git).
 
