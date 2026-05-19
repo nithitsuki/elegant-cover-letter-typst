@@ -1,0 +1,15 @@
+[package]
+name = "elegant-cover-letter"
+version = "0.0.1"
+compiler = "0.12.0"
+entrypoint = "elegant-cover-letter.typ"
+authors = ["Nithilan Rameshkumar <https://github.com/nithitsuki>"]
+license = "MIT"
+description = " Unofficial engineeringresumes inspired Cover Letter theme for typst"
+repository = "https://github.com/nithitsuki/elegant-cover-letter-typst"
+keywords = ["cover letter", "resume", "cv", "typst", "template", "layout"]
+categories = ["cover letter", "resume", "cv", "typst", "template", "layout"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
