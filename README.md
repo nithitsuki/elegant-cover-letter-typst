@@ -30,7 +30,7 @@ git clone "https://github.com/nithitsuki/elegant-cover-letter-typst.git" "${XDG_
 **macOS**
 
 ```bash
-git clone "https://github.com/nithitsuki/elegant-cover-letter-typst.git" ~/Library/Application/typst/packages/local/elegant-cover-letter/0.0.1
+git clone "https://github.com/nithitsuki/elegant-cover-letter-typst.git" ~/Library/Application\ Support/typst/packages/local/elegant-cover-letter/0.0.1
 ```
 
 **Windows (PowerShell)**
